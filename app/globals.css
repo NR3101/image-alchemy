@@ -112,7 +112,7 @@
   /* ===== TYPOGRAPHY */
   /* 44 */
   .h1-semibold {
-    @apply text-[36px] font-semibold sm:text-[44px] leading-[120%] sm:leading-[56px];
+    @apply text-[36px] font-bold sm:text-[36.1px] leading-[120%] sm:leading-[56px];
   }
 
   /* 36 */
